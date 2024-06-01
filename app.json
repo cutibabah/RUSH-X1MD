@@ -1,8 +1,8 @@
 {
-  "name":"BMW-X5MD",
+  "name":"RUSH-X1MD",
   "description":"bot whatsapp développé by Ibrahim adams",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
+  "logo":"https://telegra.ph/file/294a9a84cb8f88a07a02f.jpg",
   "repository":"https://github.com/ibrahimaitech/BMW-MD",
   "succes_url":"/",
   "stack":"container",
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BMW-XMD",
+      "value":"RUSH-X1MD",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/ca5688b76af3e964f963b.jpg",
+      "value":"https://telegra.ph/file/294a9a84cb8f88a07a02f.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝑴𝒓 𝑰𝒃𝒓𝒂𝒉𝒊𝒎"
+    "value": "rush"
   },
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+    "desc": "Your number , dont put '+' and put you area code(exemple of togo '991')",
     "required":false,
-    "value": "+254739937062,254710772666"
+    "value": "+94762498519"
   },
     "WARN_COUNT":
   {
